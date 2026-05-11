@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shibxyy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning backend dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
